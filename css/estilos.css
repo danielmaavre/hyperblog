@@ -20,7 +20,7 @@ body
     vertical-align: middle;
 }
 
-#cabecera #log0
+#cabecera #logo
 {
     width: 20px;
     vertical-align: middle;
@@ -53,4 +53,12 @@ body
 {
     background: white;
     padding: 1em;
+}
+#footer
+{
+    background: gray;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+    font-weight: bolder;
 }
